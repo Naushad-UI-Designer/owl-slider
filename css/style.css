@@ -1,0 +1,52 @@
+.owl-new-arivals .owl-prev {
+  left: -20px;
+}
+.owl-new-arivals .owl-prev,
+.owl-new-arivals .owl-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.owl-new-arivals .owl-prev span,
+.owl-new-arivals .owl-next span {
+  font-size: 50px;
+  font-weight: 100;
+  line-height: 1;
+}
+.owl-new-arivals .owl-prev span:focus,
+.owl-new-arivals .owl-next span:focus {
+  outline: none!important;
+}
+.owl-new-arivals .owl-next {
+  right: -20px;
+}
+.owl-new-arivals .owl-prev {
+  left: -20px;
+}
+.owl-new-arivals .owl-prev,
+.owl-new-arivals .owl-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.owl-new-arivals .owl-prev span,
+.owl-new-arivals .owl-next span {
+  font-size: 50px;
+  font-weight: 100;
+  line-height: 1;
+}
+.owl-new-arivals .owl-prev span:focus,
+.owl-new-arivals .owl-next span:focus {
+  outline: none!important;
+}
+
+.owl-new-arivals .owl-dots {
+  display: none;
+}
+.container {
+    max-width: 1140px;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
